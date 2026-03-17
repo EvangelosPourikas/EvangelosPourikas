@@ -28,3 +28,37 @@ I am an MSc student in Applied Social Data Science at the London School of Econo
 
 - 📧 evangelospourikas@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/evangelos-pourikas18056b2a0/)
+
+---
+
+---
+
+## Quantitative Social Research
+
+### Project: Household Income Contribution & Satisfaction Among UK Parents
+
+**[GitHub Repository](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income)** | **[Full Documentation](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income/blob/main/README.md)**
+
+**The Question**
+
+Do dual-earner households report lower satisfaction with their income than single-earner ones? And does being a mother or father change this? Despite wide research on household dynamics, this specific relationship had barely been examined in the UK.
+
+**The Approach**
+
+Using Wave 14 (2023/2024) of the Understanding Society dataset (~40,000 UK households), I filtered to couple households with children under 16 and built a binary logistic regression model controlling for gender, general health, job status, household income, and housework hours. This was preceded by extensive bivariate analysis including chi-square tests, Cramér's V, correlations, and three-way crosstabulations.
+
+**Key Findings**
+
+- **Non-contributors and full contributors** to household income are the most satisfied — dual-earner households where both partners contribute partially report the lowest satisfaction.
+- **Fathers are 35% more likely** to report dissatisfaction compared to mothers, likely driven by breadwinning social norms.
+- **Mothers contributing 75%+** of household income show the highest rates of complete dissatisfaction — the opposite pattern to fathers.
+- **General health** emerged as the strongest predictor: individuals in poor health were **173% more likely** to be dissatisfied, even after controlling for income and employment.
+- These findings **contradict** a similar Czech study (Mysíková, 2016) which found no significant effects among parents — demonstrating that UK households behave differently.
+
+![Job Status by Satisfaction with Household Income](https://github.com/EvangelosPourikas/EvangelosPourikas/blob/main/assets/job_status_by_satisfaction.png?raw=true)
+
+**Tools:** SPSS · Chi-Square Tests · Cramér's V · Three-Way Crosstabulations · Binary Logistic Regression
+
+**Data:** Understanding Society Wave 14, UK Household Longitudinal Study (ISER, University of Essex)
+
+👉 **[View full project, syntax, and variable codebook →](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income)**
