@@ -31,8 +31,6 @@ I am an MSc student in Applied Social Data Science at the London School of Econo
 
 ---
 
----
-
 ## Quantitative Social Research
 
 ### Project: Household Income Contribution & Satisfaction Among UK Parents
