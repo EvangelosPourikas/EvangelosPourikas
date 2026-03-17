@@ -27,7 +27,7 @@ I am an MSc student in Applied Social Data Science at the London School of Econo
 ## Let's Connect
 
 - 📧 evangelospourikas@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/evangelos-pourikas-18056b2a0/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evangelos-pourikas/)
 
 ---
 
