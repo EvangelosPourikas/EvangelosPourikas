@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an MSc student in Applied Social Data Science at the London School of Economics (LSE), with a BSc in Criminology & Data Analytics from City, University of London. I'm extremely passionate about using quantitative methods and computational tools to make sense of complex social problems.
+I am an MSc student in Applied Social Data Science at the London School of Economics (LSE), with a BSc in Criminology & Data Analytics from City, University of London. I'm extremely passionate about using quantitative methods and computational tools to make sense of complex social problems, while I also hold an interest in understanding current industry markets and how data driven findings can alter business decision-making.
 
 ## What I Work With
 
