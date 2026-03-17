@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Evangelos Pourikas 👋
 
-<!--
-**EvangelosPourikas/EvangelosPourikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+MSc student in Applied Social Data Science at the London School of Economics, with a First-Class BSc in Criminology & Data Analytics from City, University of London. I'm passionate about using quantitative methods and computational tools to make sense of complex social problems — from labour market dynamics to household wellbeing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+- **Languages:** Python, R, SQL
+- **Tools & Platforms:** GitHub, SPSS, MS Excel
+- **Methods:** Logistic & Linear Regression, Statistical Modelling, Survey Data Analysis
+- **Currently Learning:** Machine Learning, Deep Learning, NLP, Advanced Computational Methods
+
+## Research Interests
+
+- Quantitative social research and policy evaluation
+- Labour market analysis and household economics
+- Applying machine learning to large-scale social survey data
+- Data-driven approaches to criminology and justice
+
+## Featured Work
+
+- **MSc Dissertation (In Progress):** Applying advanced computational methods to social data at LSE
+- **BSc Dissertation (75%):** Investigated how income contribution patterns affect household satisfaction among UK families using logistic and linear regression on the Understanding Society dataset
+- **European Union Project – ICF:** Co-authored in a successful (chapter) Erasmus+ project worth over £2 million.
+
+## Let's Connect
+
+- 📧 evangelospourikas@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evangelos-pourikas18056b2a0/)
