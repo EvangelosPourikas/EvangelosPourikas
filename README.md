@@ -53,7 +53,7 @@ Using Wave 14 (2023/2024) of the Understanding Society dataset (~40,000 UK house
 - **General health** emerged as the strongest predictor: individuals in poor health were **173% more likely** to be dissatisfied, even after controlling for income and employment.
 - These findings **contradict** a similar Czech study (Mysíková, 2016) which found no significant effects among parents — demonstrating that UK households behave differently.
 
-![Job Status by Satisfaction with Household Income](https://github.com/EvangelosPourikas/EvangelosPourikas/blob/main/assets/contribution_by_satisfaction.png?raw=true)
+![Job Status by Satisfaction with Household Income](https://github.com/EvangelosPourikas/EvangelosPourikas/blob/main/assets/pct_contributed_cat_by_satisfaction.png?raw=true)
 
 **Tools:** SPSS · Chi-Square Tests · Cramér's V · Three-Way Crosstabulations · Binary Logistic Regression
 
