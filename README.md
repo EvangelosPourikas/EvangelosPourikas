@@ -43,7 +43,7 @@ Do dual-earner households report lower satisfaction with their income than singl
 
 **The Approach**
 
-Using Wave 14 (2023/2024) of the Understanding Society dataset (~40,000 UK households), I filtered to couple households with children under 16 and built a binary logistic regression model controlling for gender, general health, job status, household income, and housework hours. This was preceded by extensive bivariate analysis including chi-square tests, Cramér's V, correlations, and three-way crosstabulations.
+Using Wave 14 (2023/2024) of the Understanding Society dataset (~40,000 UK households), I filtered to couple households with children under 16 and built a binary logistic regression model controlling for gender, general health, job status, household income, and housework hours. This was preceded by extensive bivariate analysis including chi-square tests, Cramér's V, correlations, and three-way crosstabulations. The analysis was originally conducted in SPSS and has been fully recreated in Python (Jupyter Notebook) for reproducibility.
 
 **Key Findings**
 
@@ -53,10 +53,8 @@ Using Wave 14 (2023/2024) of the Understanding Society dataset (~40,000 UK house
 - **General health** emerged as the strongest predictor: individuals in poor health were **173% more likely** to be dissatisfied, even after controlling for income and employment.
 - These findings **contradict** a similar Czech study (Mysíková, 2016) which found no significant effects among parents — demonstrating that UK households behave differently.
 
-![Job Status by Satisfaction with Household Income](https://github.com/EvangelosPourikas/EvangelosPourikas/blob/main/assets/pct_contributed_cat_by_satisfaction.png?raw=true)
+![Contribution to Household Income by Satisfaction](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income/blob/main/outputs/figures/pct_contributed_cat_by_satisfaction.png?raw=true)
 
-**Tools:** SPSS · Chi-Square Tests · Cramér's V · Three-Way Crosstabulations · Binary Logistic Regression
+**Tools:** SPSS · Python (pandas, SciPy, statsmodels, matplotlib, seaborn) · Chi-Square Tests · Cramér's V · Binary Logistic Regression
 
-**Data:** Understanding Society Wave 14, UK Household Longitudinal Study (ISER, University of Essex)
-
-👉 **[View full project, syntax, and variable codebook →](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income)**
+👉 **[View full project, syntax, and documentation →](https://github.com/EvangelosPourikas/Income-Contribution-to-Satisfaction-with-Household-Income)**
